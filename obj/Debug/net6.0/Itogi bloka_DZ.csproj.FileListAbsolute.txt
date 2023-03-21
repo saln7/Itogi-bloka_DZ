@@ -1,0 +1,15 @@
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\bin\Debug\net6.0\Itogi bloka_DZ.exe
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\bin\Debug\net6.0\Itogi bloka_DZ.deps.json
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\bin\Debug\net6.0\Itogi bloka_DZ.runtimeconfig.json
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\bin\Debug\net6.0\Itogi bloka_DZ.dll
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\bin\Debug\net6.0\Itogi bloka_DZ.pdb
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\Itogi bloka_DZ.csproj.AssemblyReference.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\Itogi bloka_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\Itogi bloka_DZ.AssemblyInfoInputs.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\Itogi bloka_DZ.AssemblyInfo.cs
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\Itogi bloka_DZ.csproj.CoreCompileInputs.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\Itogi bloka_DZ.dll
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\refint\Itogi bloka_DZ.dll
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\Itogi bloka_DZ.pdb
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\Itogi bloka_DZ.genruntimeconfig.cache
+C:\Users\OH_WO\Desktop\Новая папка (2)\Itogi bloka_DZ\obj\Debug\net6.0\ref\Itogi bloka_DZ.dll
